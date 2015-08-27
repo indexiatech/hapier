@@ -1,0 +1,47 @@
+{
+  "name": "hapier",
+  "description": "Hapi Application Configurator",
+  "version": "0.0.1",
+  "repository": "git://github.com/indexiatech/hapier",
+  "main": "lib/index.js",
+  "keywords": [
+    "hapi",
+    "plugin",
+    "hapier",
+    "project",
+    "boilerplate"
+  ],
+  "engines": {
+    "node": ">=0.12.x"
+  },
+  "dependencies": {
+    "async": "^1.2.1",
+    "boom": "2.x.x",
+    "glob": "^5.0.10",
+    "hoek": "2.x.x",
+    "joi": "6.x.x"
+  },
+  "peerDependencies": {
+    "hapi": ">= 9.x.x"
+  },
+  "devDependencies": {
+    "code": "1.x.x",
+    "lab": "5.x.x"
+  },
+  "scripts": {
+    "test": "lab -m 5000 -t 100 -v -La code",
+    "json": "lab -a code -r json -t 100 -o lab.json -m 30000 -L",
+    "test-cov-html": "lab -m 5000 -r html -o coverage.html -La code"
+  },
+  "license": "BSD-3-Clause",
+  "bugs": {
+    "url": "https://github.com/indexiatech/hapier/issues"
+  },
+  "homepage": "https://github.com/indexiatech/hapier",
+  "maintainers": [
+    {
+      "name": "Asaf Shakarzy",
+      "email": "asaf@indexia.co"
+    }
+  ]
+}

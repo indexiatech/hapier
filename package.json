@@ -17,6 +17,7 @@
   "dependencies": {
     "async": "^1.2.1",
     "boom": "2.x.x",
+    "chairo": "^1.1.0",
     "glob": "^5.0.10",
     "hoek": "2.x.x",
     "joi": "6.x.x"

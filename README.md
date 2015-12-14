@@ -1,3 +1,12 @@
+# Hapier
+
+[![npm version](https://badge.fury.io/js/hapier.svg)](https://badge.fury.io/js/hapier)
+[![Build Status](https://api.travis-ci.org/indexiatech/hapier.png?branch=master)](https://travis-ci.org/indexiatech/hapier)
+[![Coverage Status](https://coveralls.io/repos/indexiatech/hapier/badge.svg?branch=master&service=github)](https://coveralls.io/github/indexiatech/hapier?branch=master)
+[![Dependency Status](https://david-dm.org/indexiatech/hapier.svg)](https://david-dm.org/indexiatech/hapier)
+[![bitHound Overalll Score](https://www.bithound.io/github/indexiatech/hapier/badges/score.svg)](https://www.bithound.io/github/indexiatech/hapier)
+
+
 A happier way to use [Hapi](http://hapijs.com)
 
 Lead Maintainer: [Asaf Shakarzy](https://github.com/asaf)

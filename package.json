@@ -1,7 +1,7 @@
 {
   "name": "hapier",
   "description": "Hapi Application Configurator",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "repository": "git://github.com/indexiatech/hapier",
   "main": "lib/index.js",
   "keywords": [
